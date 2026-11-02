@@ -1,0 +1,3 @@
+payroll.db.url=jdbc:mysql://localhost:3306/payroll_service
+payroll.db.user=your_mysql_username
+payroll.db.password=your_mysql_password
